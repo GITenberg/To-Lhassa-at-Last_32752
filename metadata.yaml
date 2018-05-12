@@ -1,0 +1,27 @@
+_repo: To-Lhassa-at-Last_32752
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32752-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Millington, Powell
+    alias: Synge, Mark
+    gutenberg_agent_id: '36023'
+    url: http://www.gutenberg.org/2009/agents/36023
+description: ''
+gutenberg_issued: '2010-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32752'
+  lccn: '05010444'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tibet Autonomous Region (China) -- Description and travel'
+- !lcc 'DS'
+- !lcsh 'British -- China -- Tibet Autonomous Region'
+title: To Lhassa at Last
+url: http://www.gutenberg.org/ebooks/32752
